@@ -1,4 +1,6 @@
 Introduction: Telco Customer Churn Analysis
+
+
 The Telco Customer Churn Analysis project aims to identify and understand the key factors that contribute to customer churn within a telecommunications company. Churn, defined as customers discontinuing their services, is a critical challenge faced by businesses, as it directly impacts revenue and growth.
 
 This project focuses on leveraging data analytics techniques to examine customer behavior, payment methods, contract types, and other demographic and service-related factors to uncover insights into why customers leave. By analyzing patterns and trends in churn, businesses can develop effective strategies to improve customer retention and satisfaction.
