@@ -8,9 +8,13 @@ This project focuses on leveraging data analytics techniques to examine customer
 The project includes:
 
 Data Exploration: A thorough analysis of customer data, including tenure, payment preferences, and service usage.
+
 Key Insights: Identification of factors such as contract type, payment methods, and tenure length that significantly influence churn.
+
 Visualizations: Use of charts and graphs to illustrate trends and insights, enabling a clear understanding of the underlying causes of churn.
+
 Actionable Recommendations: Strategies to address the high churn rates and retain customers, such as promoting long-term contracts, improving payment processes, and targeting high-risk customer segments.
+
 By utilizing Python for exploratory data analysis (EDA), this project not only highlights critical areas for improvement but also sets the foundation for predictive modeling and retention-focused interventions.
 
 
